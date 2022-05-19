@@ -1,0 +1,8 @@
+D:\SiniWork\电子地图\GPS\GPSRead\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\SiniWork\电子地图\GPS\GPSRead\WindowsApplication1\obj\Debug\WinBaseTerm.GPSReadForm.resources
+D:\SiniWork\电子地图\GPS\GPSRead\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\SiniWork\电子地图\GPS\GPSRead\WindowsApplication1\obj\Debug\GPSRead.csproj.GenerateResource.Cache
+D:\SiniWork\电子地图\GPS\GPSRead\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\SiniWork\电子地图\GPS\GPSRead\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\SiniWork\电子地图\GPS\GPSRead\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\SiniWork\电子地图\GPS\GPSRead\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
